@@ -45,5 +45,6 @@ This dashboard supports stakeholders in making data-driven decisions across logi
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Global-Debts/blob/main/table-global%20debt.png)
 
-![Dashboard]()
+![table](https://github.com/Ola-ykay/Global-Debts/blob/main/table2-global-debt.png)
+![dashboard]()
 
