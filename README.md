@@ -43,7 +43,7 @@ To analyze and visualize global debt trends across countries and debt types, hel
 This dashboard supports stakeholders in making data-driven decisions across logistics, inventory, and supplier management.
     
 ## Data Visualization 
-![Table]()
+![Table](https://github.com/Ola-ykay/Global-Debts/blob/main/table-global%20debt.png)
 
-![Dashboard](
+![Dashboard]()
 
